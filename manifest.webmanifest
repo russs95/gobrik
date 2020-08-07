@@ -1,6 +1,6 @@
 {
   "background_color": "green",
-  "description": "Track your ultimate green spirit",
+  "description": "Track your ultimate impact",
   "display": "fullscreen",
   "icons": [
     {
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Green Spirit App",
-  "short_name": "Green Spirit",
+  "name": "Green Spirit Impact App",
+  "short_name": "Ultimate Impact",
   "start_url": "/index.html"
 }
